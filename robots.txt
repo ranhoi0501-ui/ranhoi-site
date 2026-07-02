@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ranhoi0501-ui.github.io/ranhoi-site/sitemap.xml
